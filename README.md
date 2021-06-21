@@ -1,2 +1,2 @@
-# 01-Palinfrom
+# 01-Palindrom
 Palindrom - Android
