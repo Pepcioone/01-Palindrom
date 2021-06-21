@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/59628ee5bb86eda222865356502a5008/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pepcio/.gradle/caches/transforms-2/files-2.1/92fd44eef5b8ecc2e594cff882a45f6c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/f416940a5eb0c7c745d6391b3ee1bc9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2b1b1085e9b6d23e814ec859931b2780/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/0bc3f8b3c23e296715e895a3571220cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/fe5ca5821cb5422781a9d5a6b7edde8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2c97fa20cae0195854bc62c31533ca7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/91834a9680729a7e76272fcf1e47ef76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/b4ed7e1d67e28629ca3bf51ee883d79c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/061d28e2694d3fd826f8def91d6fd78c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c1a1843f33d8c70897513981f713bbf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/7c52b77405280a53382add6ef4279f6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/1a1b7c3aa11c94dee5d704459e605d63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/839abf91fa8891a12dfb4beed19fb107/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/a4a384d665ae60305446ab2b3bac3303/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c238508f95168d29bb2561e1431845f2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/6f65e17db4a5e092f046335b4848c540/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2f1880ad44f7b678f28bb47f4972e874/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/42871d9a4026e1f205a23083c106f122/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2789b8b13a4902014ac51595b1b37f98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/1152c641226a647adbdaa725654d63a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/876c87d96d7a152a137f0220ec11068f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/0a26825f22562c388ebaff6eb3872458/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/233b2992728a6f6a332214b27a6a2b4c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/48b601ed3d9ce2a9047bbe6f1d0a6370/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/e76a8debe0829e7b4464421f93045b56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/a4cd61bd9ffb9a7d12266f4cd4350163/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pepcio/.gradle/caches/transforms-2/files-2.1/92fd44eef5b8ecc2e594cff882a45f6c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pepcio/.gradle/caches/transforms-2/files-2.1/92fd44eef5b8ecc2e594cff882a45f6c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c238508f95168d29bb2561e1431845f2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c238508f95168d29bb2561e1431845f2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/6f65e17db4a5e092f046335b4848c540/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/6f65e17db4a5e092f046335b4848c540/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c238508f95168d29bb2561e1431845f2/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.a1palindrom.MainActivity
+ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/59628ee5bb86eda222865356502a5008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/59628ee5bb86eda222865356502a5008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pepcio/.gradle/caches/transforms-2/files-2.1/92fd44eef5b8ecc2e594cff882a45f6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pepcio/.gradle/caches/transforms-2/files-2.1/92fd44eef5b8ecc2e594cff882a45f6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/f416940a5eb0c7c745d6391b3ee1bc9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/f416940a5eb0c7c745d6391b3ee1bc9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2b1b1085e9b6d23e814ec859931b2780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2b1b1085e9b6d23e814ec859931b2780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/0bc3f8b3c23e296715e895a3571220cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/0bc3f8b3c23e296715e895a3571220cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/fe5ca5821cb5422781a9d5a6b7edde8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/fe5ca5821cb5422781a9d5a6b7edde8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2c97fa20cae0195854bc62c31533ca7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2c97fa20cae0195854bc62c31533ca7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/91834a9680729a7e76272fcf1e47ef76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/91834a9680729a7e76272fcf1e47ef76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/b4ed7e1d67e28629ca3bf51ee883d79c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/b4ed7e1d67e28629ca3bf51ee883d79c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/061d28e2694d3fd826f8def91d6fd78c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/061d28e2694d3fd826f8def91d6fd78c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c1a1843f33d8c70897513981f713bbf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c1a1843f33d8c70897513981f713bbf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/7c52b77405280a53382add6ef4279f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/7c52b77405280a53382add6ef4279f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/1a1b7c3aa11c94dee5d704459e605d63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/1a1b7c3aa11c94dee5d704459e605d63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/839abf91fa8891a12dfb4beed19fb107/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/839abf91fa8891a12dfb4beed19fb107/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/a4a384d665ae60305446ab2b3bac3303/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/a4a384d665ae60305446ab2b3bac3303/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c238508f95168d29bb2561e1431845f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/c238508f95168d29bb2561e1431845f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/6f65e17db4a5e092f046335b4848c540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/6f65e17db4a5e092f046335b4848c540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2f1880ad44f7b678f28bb47f4972e874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2f1880ad44f7b678f28bb47f4972e874/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/42871d9a4026e1f205a23083c106f122/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/42871d9a4026e1f205a23083c106f122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2789b8b13a4902014ac51595b1b37f98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/2789b8b13a4902014ac51595b1b37f98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/1152c641226a647adbdaa725654d63a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/1152c641226a647adbdaa725654d63a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/876c87d96d7a152a137f0220ec11068f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/876c87d96d7a152a137f0220ec11068f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/0a26825f22562c388ebaff6eb3872458/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/0a26825f22562c388ebaff6eb3872458/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/233b2992728a6f6a332214b27a6a2b4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/233b2992728a6f6a332214b27a6a2b4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/48b601ed3d9ce2a9047bbe6f1d0a6370/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/48b601ed3d9ce2a9047bbe6f1d0a6370/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/e76a8debe0829e7b4464421f93045b56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pepcio/.gradle/caches/transforms-2/files-2.1/e76a8debe0829e7b4464421f93045b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/a4cd61bd9ffb9a7d12266f4cd4350163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pepcio/.gradle/caches/transforms-2/files-2.1/a4cd61bd9ffb9a7d12266f4cd4350163/AndroidManifest.xml:20:5-44
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+		ADDED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pepcio/store/project/android/01Palindrom/app/src/main/AndroidManifest.xml
